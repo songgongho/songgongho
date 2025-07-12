@@ -1,9 +1,6 @@
-# Readme.md
-
-충북대학교 / 대학원 / 산업인공지능학과
 
 # 안녕하세요, 산업의 문제를 정의하고 AI로 해결하는 기획자 송공호입니다.
-
+충북대학교 / 대학원 / 산업인공지능학과
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2RtcXBwYWNuc3V2bGhzYnd0c3V2dmNqa2pkMHp4NWxjdnk4N3U4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9gbBd9hDx80E/giphy.gif" width="100">
 </p>
