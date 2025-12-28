@@ -69,14 +69,28 @@
 ## 📊 GitHub 통계 (GitHub Stats)
 
 <p align="center">
-  <a href="https://github.com/songgongho">
-    <img src="./assets/profile_stats.png" alt="GitHub stats" />
-  </a>
-  <br>
-  <a href="https://github.com/songgongho">
-    <img src="./assets/top_langs.png" alt="Top languages" />
-  </a>
+  <img src="https://img.shields.io/badge/Total%20Commits-500%2B-brightgreen?style=for-the-badge&logo=github&logoColor=white" alt="Commits"/>
+  <img src="https://img.shields.io/badge/Private%20Repos-10%2B-blue?style=for-the-badge&logo=github&logoColor=white" alt="Private Repos"/>
+  <img src="https://img.shields.io/badge/Contributions-Active-orange?style=for-the-badge&logo=github&logoColor=white" alt="Contributions"/>
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-70%25-blue?style=for-the-badge&logo=python&logoColor=yellow" alt="Python"/>
+  <img src="https://img.shields.io/badge/Jupyter-15%25-orange?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/SQL-10%25-lightblue?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/HTML/CSS-5%25-red?style=for-the-badge&logo=html5&logoColor=white" alt="HTML/CSS"/>
+</p>
+
+<div align="center">
+  <a href="https://github.com/songgongho">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=songgongho&layout=compact&langs_count=8&theme=radical&hide_border=true&border_radius=10" alt="songgongho Top Languages"/>
+  </a>
+  <br><br>
+  <a href="https://github.com/songgongho">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=songgongho&theme=radical&hide_border=true&border_radius=10" alt="songgongho GitHub Streak"/>
+  </a>
+</div>
+
 
 
 
