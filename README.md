@@ -36,8 +36,8 @@
 <p align="center">
   <a href="https://github.com/songgongho/Industrial_AI">
     <img 
-      src="https://github-readme-stats.vercel.app/api/pin/?username=songgongho&repo=Industrial_AI&theme=radical&show_owner=true&border_radius=8&cache_seconds=1800" 
-      alt="Industrial_AI repository card"
+      src="https://img.shields.io/badge/Industrial__AI-Repository-blue?style=for-the-badge&logo=github" 
+      alt="Industrial_AI repository badge"
     />
   </a>
 </p>
@@ -71,14 +71,14 @@
 <p align="center">
   <a href="https://github.com/songgongho">
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=songgongho&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" 
+      src="https://github-readme-stats-yourname.vercel.app/api?username=songgongho&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" 
       alt="GitHub stats"
     />
   </a>
   <br>
   <a href="https://github.com/songgongho">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=songgongho&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" 
+      src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=songgongho&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" 
       alt="Top languages"
     />
   </a>
