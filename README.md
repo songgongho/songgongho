@@ -72,7 +72,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/⭐%20Featured-3%20Projects-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/⭐%20Featured-8%20Projects-brightgreen?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/🐍%20Python-70%25-blue?style=for-the-badge&logo=python&logoColor=yellow"/>
   <img src="https://img.shields.io/badge/🤖%20AI%2FML-Expert-orange?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/📊%20Data-Engineering-lightblue?style=for-the-badge&logo=pandas&logoColor=white"/>
