@@ -70,19 +70,14 @@
 
 <p align="center">
   <a href="https://github.com/songgongho">
-    <img 
-      src="https://github-readme-stats-yourname.vercel.app/api?username=songgongho&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" 
-      alt="GitHub stats"
-    />
+    <img src="./assets/profile_stats.png" alt="GitHub stats" />
   </a>
   <br>
   <a href="https://github.com/songgongho">
-    <img 
-      src="https://github-readme-stats-yourname.vercel.app/api/top-langs/?username=songgongho&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" 
-      alt="Top languages"
-    />
+    <img src="./assets/top_langs.png" alt="Top languages" />
   </a>
 </p>
+
 
 
 ## 📞 연락처 (Contact)
