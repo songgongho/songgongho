@@ -35,11 +35,12 @@
 
 <p align="center">
   <a href="https://github.com/songgongho/Industrial_AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=songgongho&repo=Industrial_AI&theme=radical&show_owner=true" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/pin/?username=songgongho&repo=Industrial_AI&theme=radical&show_owner=true&border_radius=8&cache_seconds=1800" 
+      alt="Industrial_AI repository card"
+    />
   </a>
 </p>
-
-<br>
 
 ---
 
@@ -69,15 +70,20 @@
 
 <p align="center">
   <a href="https://github.com/songgongho">
-    <img src="https://github-readme-stats.vercel.app/api?username=songgongho&show_icons=true&theme=radical&count_private=true" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api?username=songgongho&show_icons=true&theme=radical&count_private=true&include_all_commits=true&cache_seconds=1800" 
+      alt="GitHub stats"
+    />
   </a>
   <br>
   <a href="https://github.com/songgongho">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=songgongho&layout=compact&theme=radical" />
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=songgongho&layout=compact&theme=radical&langs_count=8&cache_seconds=1800" 
+      alt="Top languages"
+    />
   </a>
 </p>
 
-<br>
 
 ## 📞 연락처 (Contact)
 
